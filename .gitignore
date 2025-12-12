@@ -1,0 +1,9 @@
+Data/
+*.csv
+*.nc
+*.nc4
+*.shp
+*.shx
+*.dbf
+.DS_Store
+.Rproj.user
