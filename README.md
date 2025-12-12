@@ -7,7 +7,7 @@ This repository contains the replication materials for the Master Thesis: **"Cit
 
 ---
 
-## ⚡ Quick Start: How to Replicate
+## Quick Start: How to Replicate
 
 **Prerequisites:** You need R (v4.0+) installed. Refer [[#🛠 Dependencies]] for required packages. 
 
